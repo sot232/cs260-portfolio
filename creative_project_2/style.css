@@ -1,0 +1,51 @@
+html {
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+body {
+  margin: 0;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+#root-title {
+  text-align: left;
+}
+
+#div-button {
+  margin-bottom: 15px;
+  height: 172px;
+}
+
+button {
+  background-color: white;
+  color: black;
+  border: 2px solid #555555;
+  float: left;
+  padding: 15px 2px;
+  font-size: 19px;
+}
+
+button:hover {
+  background-color: #555555;
+  color: white;
+}
+
+.button-first-row {
+  width: 50%;
+}
+
+.button-second-row {
+  width: 50%;
+}
+
+.button-third-row {
+  width: 100%;
+}
+
+.eachContent {
+  border-bottom: 5px solid black;
+}
